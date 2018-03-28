@@ -1,0 +1,7 @@
+[InputMethod]
+UniqueName=wslime
+_Name=WSLime
+IconName=wslime
+Priority=10
+LangCode=zh_TW
+Parent=fcitx-wslime

@@ -1,0 +1,10 @@
+[Addon]
+Name=fcitx-wslime
+_GeneralName=WSLime
+_Comment=WSL IME Connector For Fcitx
+Category=InputMethod
+Enabled=True
+Library=fcitx-wslime.so
+Type=SharedLibrary
+IMRegisterMethod=ConfigFile
+LoadLocal=True
